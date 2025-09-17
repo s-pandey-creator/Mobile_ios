@@ -1,0 +1,1 @@
+{"name": "test_valid_login", "status": "passed", "description": "User can log in with valid credentials.", "start": 1758085624682, "stop": 1758085728295, "uuid": "a7c1d180-4fda-4eb7-b7e9-bb04e294383c", "historyId": "27b150db6705ef6511c7ecb21ff68d02", "testCaseId": "ab68c09e23714aa68c720c2ca07c0ecf", "fullName": "tests.test_login#test_valid_login"}

@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"User can log out after logging in.","0","test_logout","tests","2025-09-15","broken","2025-09-15","","test_login","",""
+"Invalid login should display an error message.","0","test_invalid_login_shows_error","tests","2025-09-15","broken","2025-09-15","","test_login","",""
+"","4044","test_open_ui_elements","tests","2025-09-15","passed","2025-09-15","","test_ui_elements","",""
+"User can log in with valid credentials.","0","test_valid_login","tests","2025-09-15","broken","2025-09-15","","test_login","",""
