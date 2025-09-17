@@ -37,9 +37,10 @@ pip install -r requirements.txt
 
 Set BrowserStack credentials:
 
-setx BROWSERSTACK_USERNAME "sandeeppandey_3z5YkG"
-setx BROWSERSTACK_ACCESS_KEY "7aU6Ny4pQdqVnJa8XxUw"
+setx BROWSERSTACK_USERNAME "sundeepdollarbir_6WE3A4"
+setx BROWSERSTACK_ACCESS_KEY "JpQKHk3EpjmxSNX6dZR3"
 
 Generate Allure report:
+
 
 allure generate allure-results -o allure-report --clean
